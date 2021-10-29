@@ -1,5 +1,5 @@
 {
-    "name": "comodojo/daemon",
+    "name": "pmarcelli/daemon",
     "description": "Solid PHP daemon toolkit",
     "license": "MIT",
     "type": "library",
